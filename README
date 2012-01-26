@@ -11,5 +11,5 @@ How to use:
 1. Put your images to a desired folder
 2. Setup script
 3. Run script
-4. Include generated .scss -file to your project: '@include xyz.scss;'
+4. Import generated .scss -file to your project: '@import _xyz.scss;'
 5. Using it in a .scss document: 'eg. span#button { @include some_image_name; }'
